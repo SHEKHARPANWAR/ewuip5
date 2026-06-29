@@ -1,0 +1,6 @@
+{
+  "name": "Syrma SGS Equipment Management System",
+  "description": "An industrial-grade equipment calibration tracker with a lamp-themed login portal, real-time Supabase cloud synchronization, thermal sticker label generator, and ISO certificate document sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
